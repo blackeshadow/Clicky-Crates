@@ -5,6 +5,8 @@ ScriptsOnlyBuild:
     - DifficultyButtons
     - GameManager
     - Target
+    Unity.Play.Publisher.Editor.dll:
+    - Unity.Play.Publisher.Editor.AnalyticsHelper
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -95,35 +97,35 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1592}
+      Script: {instanceID: 1594}
     - Class: 114
-      Script: {instanceID: 2206}
+      Script: {instanceID: 2208}
     - Class: 114
-      Script: {instanceID: 2640}
+      Script: {instanceID: 2642}
     - Class: 114
-      Script: {instanceID: 2866}
+      Script: {instanceID: 2868}
     - Class: 114
-      Script: {instanceID: 3164}
+      Script: {instanceID: 3166}
     - Class: 114
-      Script: {instanceID: 3646}
+      Script: {instanceID: 3650}
     - Class: 114
-      Script: {instanceID: 4226}
+      Script: {instanceID: 4232}
     - Class: 114
-      Script: {instanceID: 4446}
+      Script: {instanceID: 4456}
     - Class: 114
-      Script: {instanceID: 4504}
+      Script: {instanceID: 4516}
     - Class: 114
-      Script: {instanceID: 4778}
+      Script: {instanceID: 4790}
     - Class: 114
-      Script: {instanceID: 5264}
+      Script: {instanceID: 5278}
     - Class: 114
-      Script: {instanceID: 5874}
+      Script: {instanceID: 5892}
     - Class: 114
-      Script: {instanceID: 5888}
+      Script: {instanceID: 5906}
     - Class: 114
-      Script: {instanceID: 6030}
+      Script: {instanceID: 6050}
     - Class: 114
-      Script: {instanceID: 6372}
+      Script: {instanceID: 6398}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
